@@ -19,4 +19,6 @@ Indice:
 
 -[Der a tablas](https://github.com/FloresFazzito/BasedeDatos-Fazzito-Flores/tree/main/rep-der%20a%20tablas)
 
+-[Normalizacion 2](https://github.com/FloresFazzito/BasedeDatos-Fazzito-Flores/tree/main/rep-Normalizacion2).
+
 
